@@ -1,4 +1,4 @@
-# shan_app
+# google map polyline and maker sample
 
 A new Flutter project.
 
