@@ -32,7 +32,7 @@ class MapPageState extends State<MapPage> {
   // this is the key object - the PolylinePoints
   // which generates every polyline between start and finish
   PolylinePoints polylinePoints = PolylinePoints();
-  String googleAPIKey = "AIzaSyDezvcxcWVk19G542NjV5St1IGSf0ixwIY";
+  String googleAPIKey = "GOOGLE_MAP_API_KEY";
   // for my custom icons
   BitmapDescriptor sourceIcon;
   BitmapDescriptor destinationIcon;
